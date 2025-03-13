@@ -1,3 +1,5 @@
+--queries on logical operators
+
 SQL> SELECT EName, DeptNo
   2  FROM emp
   3  WHERE NOT DeptNo=30;
